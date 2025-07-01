@@ -1,0 +1,3 @@
+date,food_name,calories,protein,carbs,fat,fiber,sodium,serving_size,meal_type,notes,timestamp
+2025-07-01 00:00:00,"Apple, candied",134,1.34,29.61,2.15,0.0,0.0,,,,2025-07-01T02:10:30.593786
+2025-07-01,Cheeseburger (Burger King),265,14.02,23.66,12.32,0.0,0.0,,,,2025-07-01T02:10:40.322295

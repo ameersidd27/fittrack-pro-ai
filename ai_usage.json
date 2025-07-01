@@ -1,0 +1,11 @@
+{
+  "requests": [
+    {
+      "timestamp": "2025-07-01T01:32:57.406132",
+      "tokens": 294,
+      "cost": 4.41e-05
+    }
+  ],
+  "total_tokens": 294,
+  "total_cost": 4.41e-05
+}

@@ -1,0 +1,17 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# USDA FoodData Central API Configuration
+USDA_API_KEY=your_usda_api_key_here
+
+# App Configuration
+APP_ENVIRONMENT=development
+DEBUG_MODE=True
+
+# AI Configuration
+AI_MODEL=gpt-4o-mini
+MAX_AI_REQUESTS_PER_MINUTE=3
+
+# Cache Configuration
+CACHE_DURATION_HOURS=24
+MAX_CACHE_SIZE_MB=100 

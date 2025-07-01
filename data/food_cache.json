@@ -1,0 +1,501 @@
+{
+  "search_9dee45a24efffc78483a02cfcfd83433": {
+    "data": [
+      {
+        "fdc_id": 2709260,
+        "name": "Pineapple, raw",
+        "brand": "",
+        "category": "Pineapple",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.46,
+          "fat": 0.21,
+          "carbs": 14.09,
+          "calories": 60,
+          "fiber": 0.9,
+          "sodium": 0
+        }
+      },
+      {
+        "fdc_id": 2709264,
+        "name": "Pineapple, frozen",
+        "brand": "",
+        "category": "Pineapple",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.46,
+          "fat": 0.21,
+          "carbs": 14.09,
+          "calories": 60,
+          "fiber": 0.9,
+          "sodium": 0
+        }
+      },
+      {
+        "fdc_id": 2709210,
+        "name": "Pineapple, dried",
+        "brand": "",
+        "category": "Dried fruits",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 1.22,
+          "fat": 0.71,
+          "carbs": 84.11,
+          "calories": 347,
+          "fiber": 2.4,
+          "sodium": 0
+        }
+      },
+      {
+        "fdc_id": 2346398,
+        "name": "Pineapple, raw",
+        "brand": "",
+        "category": "Fruits and Fruit Juices",
+        "data_type": "Foundation",
+        "nutrients": {
+          "sodium": 0.0,
+          "fat": 0.211,
+          "fiber": 0.935,
+          "carbs": 14.1,
+          "protein": 0.461
+        }
+      },
+      {
+        "fdc_id": 169665,
+        "name": "Toppings, pineapple",
+        "brand": "",
+        "category": "Sweets",
+        "data_type": "SR Legacy",
+        "nutrients": {
+          "fiber": 0.4,
+          "sodium": 42.0,
+          "fat": 0.1,
+          "carbs": 66.4,
+          "calories": 253,
+          "protein": 0.1
+        }
+      },
+      {
+        "fdc_id": 2708010,
+        "name": "Pie, pineapple cream",
+        "brand": "",
+        "category": "Cakes and pies",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 2.36,
+          "fat": 15.57,
+          "carbs": 31.18,
+          "calories": 274,
+          "fiber": 0.7,
+          "sodium": 168
+        }
+      },
+      {
+        "fdc_id": 2709310,
+        "name": "Pineapple salad with dressing",
+        "brand": "",
+        "category": "Other fruits and fruit salads",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.5,
+          "fat": 5.79,
+          "carbs": 12.79,
+          "calories": 105,
+          "fiber": 0.8,
+          "sodium": 48
+        }
+      },
+      {
+        "fdc_id": 2709262,
+        "name": "Pineapple, canned, in syrup",
+        "brand": "",
+        "category": "Pineapple",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.4,
+          "fat": 0.11,
+          "carbs": 15.6,
+          "calories": 62,
+          "fiber": 0.7,
+          "sodium": 1
+        }
+      }
+    ],
+    "timestamp": 1751353786.7358966
+  },
+  "search_1f3870be274f6c49b3e31a0c6728957f": {
+    "data": [
+      {
+        "fdc_id": 2709294,
+        "name": "Apple, candied",
+        "brand": "",
+        "category": "Apples",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 1.34,
+          "fat": 2.15,
+          "carbs": 29.61,
+          "calories": 134,
+          "fiber": 1.8,
+          "sodium": 62
+        }
+      },
+      {
+        "fdc_id": 2709215,
+        "name": "Apple, raw",
+        "brand": "",
+        "category": "Apples",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.17,
+          "fat": 0.15,
+          "carbs": 14.8,
+          "calories": 61,
+          "fiber": 2.1,
+          "sodium": 0
+        }
+      },
+      {
+        "fdc_id": 2709196,
+        "name": "Apple, dried",
+        "brand": "",
+        "category": "Dried fruits",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.93,
+          "fat": 0.32,
+          "carbs": 65.89,
+          "calories": 243,
+          "fiber": 8.7,
+          "sodium": 87
+        }
+      },
+      {
+        "fdc_id": 2708023,
+        "name": "Crisp, apple",
+        "brand": "",
+        "category": "Cakes and pies",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 2.81,
+          "fat": 9.59,
+          "carbs": 30.18,
+          "calories": 215,
+          "fiber": 2.7,
+          "sodium": 119
+        }
+      },
+      {
+        "fdc_id": 2709220,
+        "name": "Apple, baked",
+        "brand": "",
+        "category": "Apples",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.32,
+          "fat": 3.08,
+          "carbs": 22.7,
+          "calories": 113,
+          "fiber": 2.5,
+          "sodium": 4
+        }
+      },
+      {
+        "fdc_id": 2709319,
+        "name": "Apple cider",
+        "brand": "",
+        "category": "Apple juice",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 0.1,
+          "fat": 0.13,
+          "carbs": 11.3,
+          "calories": 46,
+          "fiber": 0.2,
+          "sodium": 4
+        }
+      },
+      {
+        "fdc_id": 2708019,
+        "name": "Cobbler, apple",
+        "brand": "",
+        "category": "Cakes and pies",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 2.05,
+          "fat": 8.66,
+          "carbs": 33.56,
+          "calories": 217,
+          "fiber": 1.6,
+          "sodium": 180
+        }
+      },
+      {
+        "fdc_id": 174988,
+        "name": "Croissants, apple",
+        "brand": "",
+        "category": "Baked Products",
+        "data_type": "SR Legacy",
+        "nutrients": {
+          "fat": 8.7,
+          "carbs": 37.1,
+          "calories": 254,
+          "protein": 7.4,
+          "fiber": 2.5,
+          "sodium": 274
+        }
+      }
+    ],
+    "timestamp": 1751353827.9202993
+  },
+  "search_6e69685d22c94ffd42ccd7e70e246bd9": {
+    "data": [
+      {
+        "fdc_id": 2707481,
+        "name": "Veggie burger, on bun",
+        "brand": "",
+        "category": "Vegetable sandwiches/burgers",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 12.96,
+          "fat": 5.2,
+          "carbs": 30.82,
+          "calories": 224,
+          "fiber": 3.5,
+          "sodium": 534
+        }
+      },
+      {
+        "fdc_id": 2706890,
+        "name": "Cheeseburger (Burger King)",
+        "brand": "",
+        "category": "Burgers",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 14.02,
+          "fat": 12.32,
+          "carbs": 23.66,
+          "calories": 265,
+          "fiber": 1,
+          "sodium": 527
+        }
+      },
+      {
+        "fdc_id": 2706922,
+        "name": "Hamburger (Burger King)",
+        "brand": "",
+        "category": "Burgers",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 13.63,
+          "fat": 10.24,
+          "carbs": 25.98,
+          "calories": 254,
+          "fiber": 1.1,
+          "sodium": 400
+        }
+      },
+      {
+        "fdc_id": 2706931,
+        "name": "Whopper (Burger King)",
+        "brand": "",
+        "category": "Burgers",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 11.34,
+          "fat": 12.37,
+          "carbs": 17.33,
+          "calories": 226,
+          "fiber": 1.5,
+          "sodium": 342
+        }
+      },
+      {
+        "fdc_id": 170329,
+        "name": "BURGER KING, Cheeseburger",
+        "brand": "",
+        "category": "Fast Foods",
+        "data_type": "SR Legacy",
+        "nutrients": {
+          "sodium": 602,
+          "protein": 14.6,
+          "fat": 14.8,
+          "carbs": 23.7,
+          "calories": 286,
+          "fiber": 1.0
+        }
+      },
+      {
+        "fdc_id": 170328,
+        "name": "BURGER KING, Hamburger",
+        "brand": "",
+        "category": "Fast Foods",
+        "data_type": "SR Legacy",
+        "nutrients": {
+          "sodium": 461,
+          "protein": 14.8,
+          "fat": 10.6,
+          "carbs": 26.8,
+          "calories": 261,
+          "fiber": 1.0
+        }
+      },
+      {
+        "fdc_id": 2707473,
+        "name": "Veggie burger patty, no bun",
+        "brand": "",
+        "category": "Soy and meat-alternative products",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 15.7,
+          "fat": 6.3,
+          "carbs": 14.27,
+          "calories": 177,
+          "fiber": 4.9,
+          "sodium": 569
+        }
+      },
+      {
+        "fdc_id": 2707482,
+        "name": "Veggie burger, on bun, with cheese",
+        "brand": "",
+        "category": "Vegetable sandwiches/burgers",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 14,
+          "fat": 8.43,
+          "carbs": 27.23,
+          "calories": 243,
+          "fiber": 3,
+          "sodium": 600
+        }
+      }
+    ],
+    "timestamp": 1751353835.5681815
+  },
+  "search_9351c255b9082049645271a3fc223c44": {
+    "data": [
+      {
+        "fdc_id": 174181,
+        "name": "Beverages, nutritional shake mix, high protein, powder",
+        "brand": "",
+        "category": "Beverages",
+        "data_type": "SR Legacy",
+        "nutrients": {
+          "fat": 10.7,
+          "carbs": 20.4,
+          "calories": 392,
+          "protein": 53.6,
+          "fiber": 0.0,
+          "sodium": 1210.0
+        }
+      },
+      {
+        "fdc_id": 2710726,
+        "name": "Nutritional drink or shake, high protein, ready-to-drink, NFS",
+        "brand": "",
+        "category": "Nutritional beverages",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 6.59,
+          "fat": 3.38,
+          "carbs": 0.85,
+          "calories": 61,
+          "fiber": 0.4,
+          "sodium": 72
+        }
+      },
+      {
+        "fdc_id": 2710727,
+        "name": "Nutritional drink or shake, high protein, light, ready-to-drink, NFS",
+        "brand": "",
+        "category": "Nutritional beverages",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 5.38,
+          "fat": 5.38,
+          "carbs": 17.29,
+          "calories": 138,
+          "fiber": 1.2,
+          "sodium": 77
+        }
+      },
+      {
+        "fdc_id": 2710724,
+        "name": "Nutritional drink or shake, high protein, ready-to-drink (Slim Fast)",
+        "brand": "",
+        "category": "Nutritional beverages",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 6.59,
+          "fat": 3.38,
+          "carbs": 0.85,
+          "calories": 61,
+          "fiber": 0.4,
+          "sodium": 72
+        }
+      },
+      {
+        "fdc_id": 2705507,
+        "name": "Milk shake with malt",
+        "brand": "",
+        "category": "Milk shakes and other dairy drinks",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 3.76,
+          "fat": 6.11,
+          "carbs": 13.64,
+          "calories": 125,
+          "fiber": 0.2,
+          "sodium": 66
+        }
+      },
+      {
+        "fdc_id": 173170,
+        "name": "Beverages, SLIMFAST, Meal replacement,  High Protein Shake, Ready-To-Drink, 3-2-1 plan",
+        "brand": "",
+        "category": "Beverages",
+        "data_type": "SR Legacy",
+        "nutrients": {
+          "protein": 6.59,
+          "fiber": 0.4,
+          "sodium": 72.0,
+          "fat": 3.38,
+          "carbs": 0.85,
+          "calories": 61.0
+        }
+      },
+      {
+        "fdc_id": 173174,
+        "name": "Beverages, UNILEVER, SLIMFAST Shake Mix, high protein, whey powder, 3-2-1 Plan,",
+        "brand": "",
+        "category": "Beverages",
+        "data_type": "SR Legacy",
+        "nutrients": {
+          "protein": 27.9,
+          "fiber": 18.2,
+          "sodium": 495,
+          "carbs": 50.0,
+          "fat": 13.5,
+          "calories": 433
+        }
+      },
+      {
+        "fdc_id": 2705510,
+        "name": "Milk shake, bottled, chocolate",
+        "brand": "",
+        "category": "Milk shakes and other dairy drinks",
+        "data_type": "Survey (FNDDS)",
+        "nutrients": {
+          "protein": 3.7,
+          "fat": 6.66,
+          "carbs": 20.36,
+          "calories": 150,
+          "fiber": 1.6,
+          "sodium": 80
+        }
+      }
+    ],
+    "timestamp": 1751353844.1374588
+  }
+}
